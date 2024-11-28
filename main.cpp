@@ -9,5 +9,6 @@ int main() {
 
 		//// session 2 brnach
 
-		cout << "this is the new-feature branch";
+		cout << "this is the new-feature branch"
+		cout << "function added";
 }
